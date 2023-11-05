@@ -10,9 +10,11 @@ export default defineConfig({
 
   },
   plugins: [react()],
+  base:"/Priya-BPortfolio/",
   css:{
     modules:{
       localsConvention:"camelCase"
     }
-  }
+  },
+  
 })
