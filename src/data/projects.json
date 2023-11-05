@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Dailydose",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made for coding and inerview preparartion.",
+      "skills": ["React", "JS", "Supabase"],
+      "visit": "https://dailydosee.netlify.app/"
+    },
+    {
+      "title": "Scrapy",
+      "imageSrc": "projects/project.png",
+      "description": "This project is initiated to facilitate the sale of scrap items.",
+      "skills": ["React", "Express", "Node"],
+      "visit": "https://dailydosee.netlify.app/"
+    },
+    {
+      "title": "Paradise",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to support farmers and rural artisans.",
+      "skills": ["React", "Express", "Node"],
+      "visit": "https://dailydosee.netlify.app/"
+    }
+  ]
+

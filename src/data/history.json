@@ -1,0 +1,21 @@
+[ {
+  "role": "Online internship",
+  "organisation": "Cisco",
+  "startDate": "April, 2023",
+  "endDate": "May, 2023",
+  "experiences": ["Cybersecurity Essentials", "Described Cyber Criminals tactics"],
+  "imageSrc": "history/cisco.png"
+},
+    {
+      "role": "Software Development Intern",
+      "organisation": "Jorim Technology Solutions",
+      "startDate": "Sept, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": [
+        "Web development ",
+        "Helped creating UI components"
+      ],
+      "imageSrc": "history/Jorim.png"
+    }
+   
+  ]
